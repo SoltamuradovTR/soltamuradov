@@ -44,13 +44,10 @@
 ![jsonwebtoken](https://img.shields.io/badge/-jsonwebtoken-black?style=for-the-badge&logo=jsonwebtoken)
 ![webpack](https://img.shields.io/badge/-webpack-black?style=for-the-badge&logo=webpack)
 ![express_handlebars](https://img.shields.io/badge/-express_handlebars-black?style=for-the-badge&logo=express_handlebars)
-![dotenv](https://img.shields.io/badge/-dotenv-black?style=for-the-badge&logo=dotenv)
 ![http-status](https://img.shields.io/badge/-http_status-black?style=for-the-badge&logo=http-status)
-![morgan](https://img.shields.io/badge/-morgan-black?style=for-the-badge&logo=morgan)
 ![cors](https://img.shields.io/badge/-cors-black?style=for-the-badge&logo=cors)
 ![material-ui](https://img.shields.io/badge/-material_ui-black?style=for-the-badge&logo=material-ui)
 ![concurrently](https://img.shields.io/badge/-concurrently-black?style=for-the-badge&logo=concurrently)
-![styled-components](https://img.shields.io/badge/-styled_components-black?style=for-the-badge&logo=styled-components)
 
 #### Опыт в адаптации сайта имеется
 
