@@ -6,6 +6,7 @@
 
 
 ##Основной стек, который я использую:
+
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React)
