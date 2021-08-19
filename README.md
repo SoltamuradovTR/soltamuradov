@@ -10,7 +10,7 @@
 ### Мои проекты:
 #### Командный проект:
 
-**[код]()**
+**[код](https://github.com/soltamuradov/autoexpert-app)**
 **[демо](http://appraiser-cars.herokuapp.com/)**
 
 
