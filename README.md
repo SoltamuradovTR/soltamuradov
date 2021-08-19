@@ -1,14 +1,14 @@
-##Меня зовут Ташу-Хаджи. Приветствую вас на своем репозитории.
+## Меня зовут Ташу-Хаджи. Приветствую вас на своем репозитории.
 
 
-##Как вы можете со мной связаться:
+## Как вы можете со мной связаться:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/Percival_Developer)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/percival_dev)
 ![mail](https://img.shields.io/badge/-soltamuradov@mail.ru-black?style=for-the-badge&logo=Mail)
 
 
-##Основной стек, который я использую:
+## Основной стек, который я использую:
 
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
