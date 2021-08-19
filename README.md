@@ -8,7 +8,7 @@
 ![mail](https://img.shields.io/badge/-soltamuradov@mail.ru-black?style=for-the-badge&logo=Mail.ru)
 
 ### Мои проекты:
-#### Командный проект:
+#### Командный проект: autoexpert-app
 
 **[код](https://github.com/soltamuradov/autoexpert-app)**
 **[демо](http://appraiser-cars.herokuapp.com/)**
