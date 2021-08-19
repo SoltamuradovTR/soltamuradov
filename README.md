@@ -5,7 +5,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/Percival_Developer)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/percival_dev)
-[![mail](https://img.shields.io/badge/-soltamuradov@mail.ru-black?style=for-the-badge&logo=Mail)](https://t.r.soltamuradov@mail.ru)
+![mail](https://img.shields.io/badge/-soltamuradov@mail.ru-black?style=for-the-badge&logo=Mail)
 
 
 ##Основной стек, который я использую:
