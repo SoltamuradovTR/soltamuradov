@@ -1,5 +1,6 @@
 ## Меня зовут Ташу-Хаджи. Приветствую вас на своем GitHub.
 
+---
 
 ### Как вы можете со мной связаться:
 
@@ -7,16 +8,20 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/percival_dev)
 ![mail](https://img.shields.io/badge/-soltamuradov@mail.ru-black?style=for-the-badge&logo=Mail.ru)
 
-### Мои проекты:
-#### Командный проект: autoexpert-app
+---
 
-**[код](https://github.com/soltamuradov/autoexpert-app)**
-**[демо](http://appraiser-cars.herokuapp.com/)**
+### Мои проекты:
+#### Командный проект autoexpert-app
+
+**[открыть код](https://github.com/soltamuradov/autoexpert-app)** ||
+**[открыть приложение](http://appraiser-cars.herokuapp.com/)**
 
 
 #### Индивидуальный проект solo-project-simCard
 
-**[код](https://github.com/soltamuradov/solo-project-simCard)**
+**[открыть код](https://github.com/soltamuradov/solo-project-simCard)**
+
+---
 
 ### Основной стек, который я использую:
 
@@ -31,7 +36,7 @@
 ![redux_thunk](https://img.shields.io/badge/-redux_thunk-black?style=for-the-badge&logo=redux)
 ![prettier](https://img.shields.io/badge/-prettier-black?style=for-the-badge&logo=prettier)
 ![redux_devtools](https://img.shields.io/badge/-redux_devtools-black?style=for-the-badge&logo=redux)
-![React_router](https://img.shields.io/badge/-React_router-black?style=for-the-badge&logo=React-router)
+![React_router](https://img.shields.io/badge/-React--router-black?style=for-the-badge&logo=React-router)
 ![BCRYPT](https://img.shields.io/badge/-BCRYPT-black?style=for-the-badge&logo=BCRYPT)
 ![MONGOOSE](https://img.shields.io/badge/-MONGOOSE-black?style=for-the-badge&logo=MONGOOSE)
 ![eslint](https://img.shields.io/badge/-eslint-black?style=for-the-badge&logo=eslint)
@@ -46,3 +51,18 @@
 ![material-ui](https://img.shields.io/badge/-material_ui-black?style=for-the-badge&logo=material-ui)
 ![concurrently](https://img.shields.io/badge/-concurrently-black?style=for-the-badge&logo=concurrently)
 ![styled-components](https://img.shields.io/badge/-styled_components-black?style=for-the-badge&logo=styled-components)
+
+#### Опыт в адаптации сайта имеется
+
+---
+
+### Чему я хочу научится в будущем:
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=Vue.js)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript)
+
+
+#### в принципе все интересно в программировании...
+
+
+
