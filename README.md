@@ -14,7 +14,7 @@
 #### Командный проект autoexpert-app
 
 **[открыть код](https://github.com/soltamuradov/autoexpert-app)** ||
-**[открыть приложение](http://appraiser-cars.herokuapp.com/)**
+**[открыть приложение](https://autoexpert-mern.herokuapp.com/)**
 
 
 #### Индивидуальный проект solo-project-simCard
