@@ -57,12 +57,10 @@
 ---
 
 ### Чему я хочу научится в будущем:
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=Vue.js)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js)
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript)
-
+<div>
+<img alt="Vuejs" src="https://img.shields.io/badge/-Vuejs-#4fc08d?style=for-the-badge&logo=Vue.js&logoColor=white" />
+<img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-black?style=for-the-badge&logo=Next.js&logoColor=white" />
+<img alt="Typescript" src="https://img.shields.io/badge/-Typescript-43853d?style=for-the-badge&logo=Typescript&logoColor=white" />
+</div>
 
 #### в принципе все интересно в программировании...
-
-
-
